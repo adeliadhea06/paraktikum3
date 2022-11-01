@@ -4,18 +4,25 @@
 1. Anda harus install Pycharm di https://www.jetbrains.com/pycharm/download/#section=windows  , Dan anda pilih yang Community
 ![Screenshot (76)](https://user-images.githubusercontent.com/115678171/198814989-ba36149f-cf88-492d-bb12-d00398751be4.png)
 2. Anda next saja semua perintahnya 
+![Screenshot (57)](https://user-images.githubusercontent.com/115794875/199217478-83d7927f-ec0d-43cb-974e-9a90e5253643.png)
+Tunggu hingga selesai
+![Screenshot (58)](https://user-images.githubusercontent.com/115794875/199217663-e316a809-3675-40de-8570-2c6dabc5a49e.png)
+
+
 3. Jika sudah selesai maka program siap di gunakan
 # Cara Menjalankan Pycharm 
 # Latihan 1
 1. Pertama-tama anda harus Klik New project lalu kasih nama project anda(sesuai yang anda mau), Dan anda harus pilih yang Previously Configurred interperter lalu klik yang add interperter dan pilih yang System interperter dan anda klik yang versi Python anda seperti gambar di bawah ini
-![Screenshot (78)](https://user-images.githubusercontent.com/115678171/198815436-8756894e-4eb0-4b58-81fe-165afda78652.png)
-![Screenshot (77)](https://user-images.githubusercontent.com/115678171/198815442-dbfb3a6e-1d2f-4fdf-b205-1f7ddfb8b16c.png)
+![Screenshot (59)](https://user-images.githubusercontent.com/115794875/199217843-8d8cf40a-ce43-4101-9369-2a227d9b63b0.png)
+![Screenshot (60)](https://user-images.githubusercontent.com/115794875/199217982-353a9399-3ee9-438f-a439-a7e81caa4904.png)
+
 
 2. Selanjutnya anda membuat file Python baru di project anda tadi dan anda kasih nama file sesuai yang anda inginkan
-![Screenshot (79)](https://user-images.githubusercontent.com/115678171/198815862-fbfc7ae9-dc11-4184-898a-4711596e2e7a.png)
-![Screenshot (80)](https://user-images.githubusercontent.com/115678171/198815863-332a5b4f-c020-40b9-8331-4f98f5794ff9.png)
+![Screenshot (61)](https://user-images.githubusercontent.com/115794875/199218116-91b2d0bd-87f8-43c8-9d19-91e4df4e76ea.png)
+Misalnya latihan1.py
+![Screenshot (62)](https://user-images.githubusercontent.com/115794875/199218310-228e43c4-58f3-4132-a68b-7fe3c6c05f75.png)
 
-3. anda masukan code dari latihan1 anda lalu Run
+3. Anda masukan code dari latihan1
 ```python
 # penggunaan end
 print('A', end='')
@@ -61,15 +68,15 @@ print('{0:>3} {1:>16}'.format(9, 10**9))
 print('{0:>3} {1:>16}'.format(10, 10**10)
 ```
  
- ![Screenshot (63)](https://user-images.githubusercontent.com/115678171/198816032-fc8004ba-67c8-4506-954d-d7e77deac44d.png)
- ![Screenshot (64)](https://user-images.githubusercontent.com/115678171/198816037-2a855d15-28af-491f-91cd-fa16e1744518.png)
- 
- *Hasil run*
- ![Screenshot (61)](https://user-images.githubusercontent.com/115678171/198816131-06a6ba95-c712-4855-8efe-264562e6b029.png)
-![Screenshot (62)](https://user-images.githubusercontent.com/115678171/198816134-bc4f5b6e-d80c-4fc2-82e7-46c908987be6.png)
+![Screenshot (66)](https://user-images.githubusercontent.com/115794875/199218605-6c5ed69a-c88b-4652-9ae6-03602609a388.png)
+![Screenshot (67)](https://user-images.githubusercontent.com/115794875/199218641-8bd5e99d-7209-4c70-a116-b4d5988b423b.png)
+
+ *Lalu anda run dan ini hasilnya*
+![Screenshot (68)](https://user-images.githubusercontent.com/115794875/199218733-a5c726b8-fde7-40a5-99ec-0bd117ad857f.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/115794875/199218806-df954ab3-19ab-4b60-bb1d-45b2648e898c.png)
 
 # Latihan 2 
-1. Anda masukan code latihan 2 anda lalu Run 
+1. Anda masukan code latihan2
 ```python
 a=input("masukkan nilai a:")
 b=input("masukkan nilai b:")
@@ -83,12 +90,13 @@ b=int(b)
 print("hasil penjumlahan {1}+{0}=%s".format(a,b) %(a+b))
 print("hasil pembagian {1}/{0}=%s".format(a,b) %(a/b))
 ````
-![Screenshot (68)](https://user-images.githubusercontent.com/115678171/198816300-3b5d72ee-26a4-4bf7-8fce-5710999bea71.png)
-*Hasil Run*
-![Screenshot (69)](https://user-images.githubusercontent.com/115678171/198816307-c1739b5e-447c-44bd-a0a2-43b3ca770e17.png)
+![Screenshot (70)](https://user-images.githubusercontent.com/115794875/199218977-88673386-0a96-4af6-89f8-a22c85673a1b.png)
+
+*Berikut hasil Run*
+![Screenshot (71)](https://user-images.githubusercontent.com/115794875/199219049-4ecfaa5b-946a-4f39-b3dc-2b56ca312ba3.png)
 
 # Latihan 3
-1. Anda masukan code seperti dibawah ini dan lalu Run
+1. Anda masukan code seperti dibawah ini
 ```python
 string = ""
 
@@ -138,11 +146,12 @@ while bar <= x:
 	bar = bar + 1
 print (string)
 ````
-![Screenshot (71)](https://user-images.githubusercontent.com/115678171/198816679-fcdcebb6-58b9-4857-b171-2dd65952ed24.png)
-![Screenshot (72)](https://user-images.githubusercontent.com/115678171/198816705-c1fbd2e3-b549-493f-8ea8-1d831895a782.png)
+![Screenshot (72)](https://user-images.githubusercontent.com/115794875/199219197-7ac4aaa1-8842-4534-9191-98f67db5f9f1.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/115794875/199219247-cc28d9b2-8355-40e2-a185-7413db9cef80.png)
 
-*Hasil Run*
-![Screenshot (70)](https://user-images.githubusercontent.com/115678171/198816756-e4e3c2c0-0582-4bf4-8bdb-2f5ffc892568.png)
+*Ini hasil Run*
+![Screenshot (74)](https://user-images.githubusercontent.com/115794875/199219379-06c35599-d202-46de-9f3c-b3eeeb79ee6b.png)
+
 
 # Menghitung Luas Dan Keliling Lingkaran
 1. Masukan code di bawah ini lalu run
@@ -157,13 +166,14 @@ keliling = 2 * math.pi * r
 print("Luas Lingkaran \t\t= ", luas)
 print("Keliling Lingkaran\t= ", keliling)
 ````
-![Screenshot (82)](https://user-images.githubusercontent.com/115678171/198817214-75aca326-f313-47fe-a27c-a7fe79f08332.png)
+![Screenshot (76)](https://user-images.githubusercontent.com/115794875/199219471-19eb890c-624a-4c81-b7eb-cb9a1edd7e07.png)
 
-*Hasil Run*
-![Screenshot (81)](https://user-images.githubusercontent.com/115678171/198817233-c6c11b97-3aaf-48ed-b7c0-e2ff8c813896.png)
+*Dan ini hasil Run*
+![Screenshot (77)](https://user-images.githubusercontent.com/115794875/199219573-302c3641-0443-4965-813a-bef3af030aa6.png)
+
 
 # Flowchart Menghitung luas dan keliling lingkaran
-![Flowchart menghitung luas dan keliling lingkaran](https://user-images.githubusercontent.com/115678171/198817259-154fec0b-f2b1-44e5-86c0-4c7ab1ad6142.png)
+![image](https://user-images.githubusercontent.com/115794875/199219774-4740db93-9614-487d-8aa4-52f681543d8f.png)
 
-*Terima Kasih*
+*Terima Kasih*
 
