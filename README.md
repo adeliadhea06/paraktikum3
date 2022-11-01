@@ -1,4 +1,4 @@
-*Hai, Nama saya Dhea Dwi Adelia. Disini saya akan menjelaskan bagaimana cara menggunakan aplikasi Pycarm.*
+*Hai, Nama saya Dhea Dwi Adelia. Disini saya akan menjelaskan bagaimana cara menggunakan aplikasi Pycharm.*
 
 # Latihan Python di Pycharm
 
